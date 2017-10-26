@@ -13,3 +13,5 @@ Buttons in order from top to down on left panel are:
   Pause physical simulation
   
 Can also drag around points manually if one sees some nice symmetry.
+
+Created in fall of 2016.
